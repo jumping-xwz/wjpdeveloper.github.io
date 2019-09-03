@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tool on Jumping</title>
+    <link>https://wjpdeveloper.github.io/tags/tool/</link>
+    <description>Recent content in tool on Jumping</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Tue, 03 Sep 2019 15:55:39 +0800</lastBuildDate>
+    
+	<atom:link href="https://wjpdeveloper.github.io/tags/tool/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我工作中常用的开发/工具软件 [Windows]</title>
+      <link>https://wjpdeveloper.github.io/fav-tools/%E6%88%91%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E5%BC%80%E5%8F%91/%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6-windows/</link>
+      <pubDate>Tue, 03 Sep 2019 15:55:39 +0800</pubDate>
+      
+      <guid>https://wjpdeveloper.github.io/fav-tools/%E6%88%91%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E5%BC%80%E5%8F%91/%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6-windows/</guid>
+      <description>本文介绍了我在工作中会用到哪些软件。 1. BCompare 极其强大易用的内容对比软件，当然，我是用的破解版。同时用IDEA内置compare with也解决了大部分code diff and merge。 2. [开源] Find And Run Robot(FARR) Find and Run Robot一款可快速搜索电脑中文件的免费工具。 Keypirinha 也不错，但由于已经养成习惯， 仍然坚持使用FARR。 下载地址：http://www.donationcoder.com/forum/?board=12.0 3. [开源</description>
+    </item>
+    
+  </channel>
+</rss>
