@@ -163,8 +163,15 @@ $(document).ready(function () {
     }
   };
 
+  wjpHyde.goBlankUrl = function() {
+    $('.post-content').find('a[href^="http"]').each(function () {
+      $(this).attr('target', '_blank');
+    })
+  }
+
   wjpHyde.backToTop();
   wjpHyde.toc();
   wjpHyde.fancybox();
   wjpHyde.responsiveTable();
+  wjpHyde.goBlankUrl();
 });
